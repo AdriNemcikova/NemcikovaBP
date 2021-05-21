@@ -2,7 +2,7 @@
 Metódy hlbokého učenia pre analýzu dát z oblasti zákrytových premenných hviezd
 
 Úloha je rozdelená do viacerých skriptov, a to:
-  1. vizualizácia syntetických a observačných svetelných kriviek - skriptdata_visu-alization.ipynb
+  1. vizualizácia syntetických a observačných svetelných kriviek - skriptdata_visualization.ipynb
   2. morfologická klasifikácia kriviek za použitia 1D CNN architektúry; model trénovaný na 1. datasete syntetických kriviek, vyhodnotený na observačných krivkách -     skript1DCNN_allCurves.ipynb
   3. morfologická klasifikácia kriviek za použitia 1D CNN architektúry; model trénovaný na 2. datasete syntetických kriviek, vyhodnotený na observačných krivkách - skript1DCNN_NoSpottyCurves.ipynb
   4. morfologická klasifikácia kriviek za použitia LSTM architektúry; model trénovaný na 1. datasete syntetických kriviek, vyhodnotený na observačných krivkách - skriptLSTM_allCurves.ipynb
